@@ -15,6 +15,7 @@ A full app built start to finish, every week.
 | Ep. | Build | Stack |
 | --- | ----- | ----- |
 | 01 | [typing-speed](https://github.com/devttasan/typing-speed): a typing speed test with live WPM and an SVG chart | Next.js · React · TypeScript · Tailwind CSS |
+| 02 | [ascii-earth](https://github.com/devttasan/ascii-earth): a spinning ASCII Earth in the terminal with day/night lighting | TypeScript · Node.js |
 
 ## Setup
 
